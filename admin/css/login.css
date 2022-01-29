@@ -1,0 +1,23 @@
+@charset "utf-8";
+.D_login_bg{background:#008F78 url(../Images/pic_010.png) no-repeat center 0px;}
+.D_login_box{width:1000px;padding-top:150px;position:absolute;top:0;left:50%;margin-left:-500px;z-index:9999;}
+.D_login{width:322px;height:354px;padding:25px 18px 0px 18px;background:url(../Images/pic_02.png) no-repeat;float:right; opacity:0;}
+.D_login span{display:block;clear:both;margin-bottom:22px;overflow:hidden;}
+.D_login span.D_title{border-bottom:1px solid #d6d6d6;background:url(../Images/pic_01.png) no-repeat 12px 12px; font-family:"Î¢ÈíÑÅºÚ";font-size:24px;color:#0a8c72; line-height:50px;padding-left:45px;margin-bottom:30px; padding-bottom:8px;}
+.D_login span dl dd{float:left;padding-left:5px;}
+.D_login span dl dd.bt{ font-family:"ËÎÌå";font-size:14px;padding-top:8px;width:50px;text-align:right;}
+.D_login span dl dd input{border:1px solid #c1c1c1;height:30px;line-height:30px;width:220px;padding-left:10px; font-family:"ËÎÌå"; margin-left:6px;}
+.D_login span dl dd input.yzm{width:80px;}
+.D_login span dl dd input.xz{border:1px solid #3991b4;font-size:14px;}
+.D_login span dl dd em{color:#0181b6;text-decoration:underline;display:block;padding-top:9px;cursor:pointer;}
+.D_login span input.D_submit{border:0px;background:#27be9f;color:#fff;display:block;width:100%;height:40px; line-height:40px;font-size:16px;font-weight:bold;font-family:"ËÎÌå";transition:background 0.3s;-webkit-transition:background 0.3s;-moz-transition:background 0.3s;-ms-transition:background 0.3s;-o-transition:background 0.3s;}
+.D_login span input.D_submit:hover{background:#25a88d;cursor:pointer;}
+.D_login span.D_tj{padding:0px 16px;}
+.D_span_1{padding-left:6px;}
+.D_ico_jp{position:relative;}
+.D_icojp{width:20px;height:12px;cursor:pointer;background:url(../Images/pic_03.png) no-repeat; position:absolute;top:0;right:0;margin-right:28px;margin-top:10px;*margin-top:12px;}
+.D_icojp:hover{background:url(../Images/pic_033.png) no-repeat;}
+.large-header {width: 100%;overflow: hidden;}
+input:hover{box-shadow:0px 0px 0px 0px #CCC;-webkit-box-shadow:0px 0px 0px 0px #CCC;}
+.D_dyy{position:relative;display:block;}
+.D_dyy i{position:absolute;right:0;margin-right:135px;margin-top:-200px;}
